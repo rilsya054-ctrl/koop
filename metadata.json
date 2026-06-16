@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Inventori Koperasi Makanan",
+  "description": "Sistem pengurusan inventori, stok makanan, dan laporan perakaunan ringkas untuk koperasi sekolah ataupun komuniti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
